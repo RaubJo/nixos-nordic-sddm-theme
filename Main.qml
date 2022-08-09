@@ -36,8 +36,8 @@ PlasmaCore.ColorScope {
 
     colorGroup: PlasmaCore.Theme.ComplementaryColorGroup
 
-    width: 1920
-    height: 1080
+    width: 960
+    height: 540
 
     property string notificationMessage
 
